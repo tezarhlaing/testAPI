@@ -1,69 +1,14 @@
 {
-    "categoryList": [
-        {
-            "subCategoryList": [
-                {
-                    "code": "Shared Bikes",
-                    "title": "Shared Bikes",
-                    "urgentCaseReportingTitle": "",
-                    "urgentCaseReportingInstruction": "",
-                    "hotline": "",
-                    "locationFieldText": "The location is at/near to: ",
-                    "locationHint": "Enter street name or postal code",
-                    "additionalInfoFieldText": "Any additional information?",
-                    "additionalInfoHint": "Near petrol station, behind lamppost...",
-                    "dateTimeFieldText": "When did you see it?",
-                    "dateTimeHint": "Select date and time",
-                    "otherDetailsFieldText": "Any other details?",
-                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
-                    "mobileSkipToMap": "false",
-                    "peMessage": "",
-                    "logoURL": "",
-                    "otherDetailsWordTags": [],
-                    "additionalInfoWordTags": [],
-                    "operatorEmail": "",
-                    "subSubCategoryList": [
-                        {
-                            "code": "Anywheel",
-                            "title": "Anywheel",
-                            "urgentCaseReportingTitle": "",
-                            "urgentCaseReportingInstruction": "",
-                            "hotline": "",
-                            "locationFieldText": "The location is at/near to: ",
-                            "locationHint": "Enter street name or postal code",
-                            "additionalInfoFieldText": "Any additional information?",
-                            "additionalInfoHint": "Near petrol station, behind lamppost...",
-                            "dateTimeFieldText": "When did you see it?",
-                            "dateTimeHint": "Select date and time",
-                            "otherDetailsFieldText": "Any other details?",
-                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
-                            "mobileSkipToMap": "false",
-                            "peMessage": "",
-                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/anywheel.png",
-                            "otherDetailsWordTags": [],
-                            "additionalInfoWordTags": [],
-                            "operatorEmail": "tezarhlaing@gmail.com",
-                            "subSubCategoryList": []
-                        }
-                      
-                      
-                    ]
-                }
-            ],
-            "code": "Shared Bikes/PMD",
-            "title": "Shared Bikes",
-            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/sharedbicycle.png",
-            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/neighbourhood/case-map/casemap-icons-pests.png",
-            "otherDetailsWordTags": [
-                "Shared Bike_PMD_wordtag_1",
-                "Shared Bike_PMD_wordtag_2"
-            ],
-            "additionalInfoWordTags": [
-                "Shared Bike_Additional",
-                "Shared Bike_Additional"
-            ]
-        }
-       
-    ],
-    "bannerHeader": "Select a category"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
