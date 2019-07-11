@@ -1,0 +1,1485 @@
+{
+    "categoryList": [
+        {
+            "subCategoryList": [
+                {
+                    "code": "Dirty Public Areas",
+                    "title": "Dirty Public Areas",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Litter can attract pests. Please help to keep our environment clean by throwing the litter in the litter bins. For disposal of bulky items, please click&nbsp;<a href=\"https://www.nea.gov.sg/our-services/waste-management/waste-management-infrastructure/refuse-disposal-facility/waste-disposal/bulk-item-disposal-disposal-of-garden-wastes-and-dead-pets \">here</a>.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Dirtypublic_1Dirtypublic1",
+                        "Dirtypublic_1Dirtypublic1",
+                        "Dirty  public_311111f",
+                        "Dirty  public_4d",
+                        "Dirty  public_5dfgd555"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2",
+                        "Additional Info_3",
+                        "Additional Info_4",
+                        "Additional Info_5"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Overflowing Litter Bin",
+                    "title": "Overflowing Litter Bin",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Do hold on to your litter till you reach a litter bin or when you reach home.&nbsp;&nbsp;</p>\n<p><br />\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Overflowing Bin_1sfdsfs",
+                        "Overflowing Bin_2",
+                        "Overflowing Bin_3",
+                        "Overflowing Bin_4"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2",
+                        "Additional Info_3"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Cleanliness",
+            "title": "Cleanliness",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-cleanliness-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-cleanliness.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Cockroaches in Common Areas",
+                    "title": "Cockroaches in Common Areas",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Please pest-proof your premises:&nbsp; </p>\n<ul>\n    <li>Maintain cleanliness by ensuring no food is left around and drains are litter-free.</li>\n    <li>Practise good refuse management by emptying refuse bins at least twice a day, keeping refuse bins covered at all times and bagging garbage before disposing them.</li>\n</ul>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Cockroaches_1",
+                        "Cockroaches_2",
+                        "Cockroaches_3",
+                        "Cockroaches_4",
+                        "Cockroaches_5"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Cockroaches in Food Establishment",
+                    "title": "Cockroaches in Food Establishment",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Some ways to pest-proof your premises:&nbsp; </p>\n<ul>\n    <li>Maintain cleanliness by ensuring no food is left around and drains are litter-free.</li>\n    <li>Store food in tightly covered containers.</li>\n    <li>Practise good refuse management by emptying refuse bins at least twice a day, keeping refuse bins covered at all times and bagging garbage before disposing them.</li>\n    <li>Keep cooking areas dry and clean</li>\n</ul>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1",
+                        "Other Details_2"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Mosquitoes",
+                    "title": "Mosquitoes",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p><img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/mosquito-breeding/mosquito_breeding_1.jpg?la=en&amp;hash=A8C74151CDD9894725E8AC145222188D8E68BEC5\" /></p>\n<p>\n</p>\n<ul>\n    <li>You can stop mosquitoes from breeding by doing the 5-step Mozzie Wipeout.&nbsp; Please click&nbsp;<a href=\"http://www.nea.gov.sg/public-health/dengue/prevent-aedes-mosquito-breeding\">here</a>. </li>\n    <li>For more information on dengue prevention, please click <a href=\"http://www.nea.gov.sg/public-health/dengue\">here</a>.</li>\n</ul>\n<p><img alt=\"\" src=\"/-/media/mso/educational-article/mosquito-breeding/zika.png?h=208&amp;&amp;w=500&amp;la=en&amp;hash=D62B7F1A938BF67C4C75EC886F8A4ED34080AF7B\" width=\"500\" height=\"208\" /></p>\n<p>\n</p>\n<div style=\"text-indent: -0.19in; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.19in; unicode-bidi: embed; direction: ltr; -ms-word-break: normal;\">&bull;For more information on the Zika virus, please click <a href=\"https://www.nea.gov.sg/dengue-zika/zika\">here</a>.&nbsp;&nbsp;</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1",
+                        "Other Details_2"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Rodents in Common Areas",
+                    "title": "Rodents in Common Areas",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Dirt or grease marks along walls and floorboards, or rat droppings, are signs of rat activity. </p>\n<p> </p>\n<p>To manage rat infestation, remove food sources where they live or hide. </p>\n<p> </p>\n<p>Please:<s></s></p>\n<p>\n</p>\n<ul>\n    <li>Keep the environment clean. </li>\n    <li>Store food in air-tight containers.</li>\n    <li>Practise good refuse management. </li>\n    <li>Maintain proper housekeeping. </li>\n</ul>\n<p><span style=\"color: black;\"><style=\"color: #172b4d; background-color: #ffffff;\">Read more on rodent control <a href=\"https://www.nea.gov.sg/our-services/pest-control/rodent-control\">here</a>.</span></p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1",
+                        "Other Details_2"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Rodents in Food Establishment",
+                    "title": "Rodents in Food Establishment",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Dirt or grease marks along walls and floorboards, or rat droppings, are signs of rat activity. </p>\n<p> </p>\n<p>To manage rat infestation, remove food sources where they live or hide. </p>\n<p> </p>\n<p>Please:<s></s></p>\n<ul>\n    <li>Keep the environment clean. </li>\n    <li>Store food in air-tight containers.</li>\n    <li>Practise good refuse management. </li>\n    <li>Maintain proper housekeeping. </li>\n</ul>\n<p> Read more on how to prevent rat infestation <a href=\"https://www.nea.gov.sg/docs/default-source/resource/guidelines-on-precautionary-measures-for-rat-control-in-food-establishments.pdf\">here</a>.<br />\n<br />\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1",
+                        "Other Details_2"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Bees and Hornets",
+                    "title": "Bees & Hornets",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": " \t\tThis case may require urgent attention. Please contact NEA at 6225 5632 to report the case.    ",
+                    "hotline": "6225 5632",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>If you see any bees or hornets, please do not disturb the hive and walk away quickly. You may provide us details of the exact location when it is safe to do so.</p>\n<p> </p>\n<p>If you get stung, please seek medical help immediately.</p>\n<p> </p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1",
+                        "Other Details_2"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1",
+                        "Additional Info_2"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Pests",
+            "title": "Pests",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-pests-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-pests.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Damaged Road Signs",
+                    "title": "Damaged Road Signs",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Road signs are designed for safe and orderly traffic flow, to guide, alert and warn road users, which will minimise the risk of accidents. You can help to keep the roads safe by promptly reporting damaged road signs.</p>\n<p><img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/damaged-road-signs/1_damaged-road-sign.jpg?la=en&amp;hash=1671A7EEFDD138E2F7AC6ECECE4A707B306845E9\" /></p>\n<p class=\"caption\">A tilted road sign.</p>\n<p><img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/damaged-road-signs/1_fallen-road-sign.jpg?la=en&amp;hash=5663C20D6184FF0D370C4F00B1D611B016696F77\" /></p>\n<p class=\"caption\">A fallen road sign.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Faulty Streetlight",
+                    "title": "Faulty Streetlight",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/faulty-streetlight/faulty_street3.jpg?la=en&amp;hash=856D5D1EE7672B46AB16A1AF084F0EB3518F43FA\" />\n<p class=\"caption\"><em>A faulty streetlight, unlit at night.</em></p>\n<p>The Land Transport Authority (LTA) works closely with NParks to prune trees that block the streetlights. Through regular inspections, faulty streetlights are repaired promptly to keep the roads well-lit for safe travelling. If you see any unlit streetlights at night, you can give us your feedback.</p>\n<p><br />\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Covered Linkway Maintenance",
+                    "title": "Covered Linkway Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>If you find any covered link-way that requires maintenance or repair, you can give us your feedback.&nbsp;</p>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/maintenance-of-covered-linkway/4_collapsed-cover-linkway-roof.jpg?la=en&amp;hash=B847968BCC55587430789017015FC521AA2F5840\" />\n<p class=\"caption\"><em>A link-way with a broken roof.</em></p>\n<em><img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/maintenance-of-covered-linkway/4_cover-linkway-column-corrosion.jpg?la=en&amp;hash=3E619ABA2B9472894DBE33464B242919CDC8C586\" /></em>\n<p class=\"caption\"><em>A link-way with a corroded column.</em></p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Road Maintenance",
+                    "title": "Road Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Roads and footpaths need regular maintenance to keep them safe for motorists, commuters and pedestrians. If you see any defects, you can give us your feedback.</p>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/maintenance-of-roads-and-footpaths/5_damaged-footpath.jpg?h=224&amp;&amp;w=339&amp;la=en&amp;hash=B6070C2281E80AB0FE2F33AF2D0E98D31D20CA2F\" />\n<p class=\"caption\"><em>A damaged footpath that requires maintenance.</em></p>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/maintenance-of-roads-and-footpaths/5_pavement-crack.jpg?h=214&amp;&amp;w=380&amp;la=en&amp;hash=D239F95069DE71AE778E32FC3BF97CE12B5D9C54\" />\n<p class=\"caption\"><em>A cracked road that requires maintenance.</em></p>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/maintenance-of-roads-and-footpaths/5_uprooted-footpath.jpg?h=202&amp;&amp;w=310&amp;la=en&amp;hash=A78F68AC934A90C22E25DB200CE4BBF5C3D5EF16\" />\n<p class=\"caption\"><em>An uprooted footpath causing potential danger for pedestrians.</em></p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Roads and Footpaths",
+            "title": "Roads & Footpaths",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-roads-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-roads.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Dead Animal",
+                    "title": "Dead Animal",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "This case may require urgent attention. Please contact NEA at 6225 5632 to report the case.",
+                    "hotline": "6225 5632",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<p>Pet owners are required to dispose of dead animals properly.&nbsp; Please click <a href=\"http://www.nea.gov.sg/energy-waste/waste-management/disposal-of-bulky-items-garden-wastes-and-dead-pets\">here</a> to find out how to handle dead pets and refer to the <a href=\"http://www.yellowpages.com.sg/\">Yellow Pages</a> for animal crematoria that offer disposal services.&nbsp;</p>\n<br />\n</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Grass Patch",
+                        "Corridor"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Park",
+                        "Footpath",
+                        "Road",
+                        "Car Park"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Injured Animal",
+                    "title": "Injured Animal",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "If this case requires urgent attention, please contact the NParks Animal Response Centre at 1800 476 1600.",
+                    "hotline": "18004761600",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>If you see an injured animal, give us details of the animal&rsquo;s condition and exact location here so that we can get to it quickly.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Void Deck"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Staircase",
+                        "Footpath",
+                        "Road",
+                        " Park"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Bird Issues",
+                    "title": "Bird Issues",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "If this case requires urgent attention, please contact the NParks Animal Response Centre at 1800 476 1600.",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Feeding pigeons will result in over-breeding, that might lead to an increase in pigeon-related nuisances.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "pigeon",
+                        "mynah",
+                        "crows"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Coffee Shop",
+                        "void deck",
+                        "staircase",
+                        "corridor"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Cat Issues",
+                    "title": "Cat Issues",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "If this case requires urgent attention, please contact the NParks Animal Response Centre at 1800 476 1600.",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>In Singapore, there is a nationwide sterilisation programme that has reduced the stray cat population over the years. Sterilised cats have their ears tipped.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Level"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Car Park",
+                        "Void Deck",
+                        "Staircase",
+                        "Unit"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Dog Issues",
+                    "title": "Dog Issues",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "If this case requires urgent attention, please contact the NParks Animal Response Centre at 1800 476 1600.",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>If you do encounter stray dogs, remain calm and do not make sudden movements. Look away and back off slowly.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Other Animal Issues",
+                    "title": "Other Animal Issues",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "If this case requires urgent attention, please contact the NParks Animal Response Centre at 1800 476 1600.",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Many wild animals are shy and would rather not encounter humans. They only tend to become aggressive when provoked.</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Vacant Land",
+                        "Park"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Footpath",
+                        "Overhead Bridge",
+                        "Trees"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Animals and Birds",
+            "title": "Animals & Birds",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-animal-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-animal.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Lighting Maintenance",
+                    "title": "Lighting Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Town Councils are autonomous legal entities formed under the Town Councils Act. Town councils control, manage, maintain and improve the common property which includes public lightings, corridors, void decks, lifts, water tanks and open spaces.<br />\n<br />\nTown Councils carry out routine maintenance works to maintain the estate hygiene and upkeep the property and living environment. These include:</p>\n<p>\n<ul>\n    <li>Cleaning of common areas and refuse collection.</li>\n    <li>Servicing of lifts, pumps, and public lightings etc.</li>\n    <li>Building maintenance, horticultural maintenance, and grass cutting works.</li>\n</ul>\n</p>\n<p>Town Councils provide a 24-hour service to attend to residents' maintenance and urgent essential service requests. You can call the Essential Maintenance Service Unit (EMSU) [AHTC: 6385-8888, Other TC: 1800-241-7711 / 1800-275-5555 (depending on the location of the reported issue)] if you require assistance for:</p>\n<p>\n<ul>\n    <li>Disruption of electrical or water supply.</li>\n    <li>Lift breakdown and rescue.</li>\n</ul>\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Common Area Maintenance",
+                    "title": "Common Area Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Town Councils are autonomous legal entities formed under the Town Councils Act. Town councils control, manage, maintain and improve the common property which includes public lightings, corridors, void decks, lifts, water tanks and open spaces.<br />\n<br />\nTown Councils carry out routine maintenance works to maintain the estate hygiene and upkeep the property and living environment. These include:</p>\n<ul>\n    <li>Cleaning of common areas and refuse collection.</li>\n    <li>Servicing of lifts, pumps, and public lightings etc.</li>\n    <li>Building maintenance, horticultural maintenance, and grass cutting works.</li>\n</ul>\n<p>Town Councils provide a 24-hour service to attend to residents' maintenance and urgent essential service requests. You can call the Essential Maintenance Service Unit (EMSU) [AHTC: 6385-8888, Other TC: 1800-241-7711 / 1800-275-5555 (depending on the location of the reported issue)] if you require assistance for:</p>\n<ul>\n    <li>Disruption of electrical or water supply.</li>\n    <li>Lift breakdown and rescue.</li>\n</ul>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "HDB Car Park Maintenance",
+                    "title": "HDB Car Park Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Examples of cases you can report on</h1><p>If you see any infrastructural maintenance issues in any HDB car park, you can give us your feedback.</p>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"border: none; border-collapse: collapse;\">\n    <tbody>\n        <tr>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p><img alt=\"\" height=\"215\" width=\"161\" src=\"/-/media/mso/educational-article/hdb-car-park-maintenance/broken-concrete-slab.jpg?h=215&amp;&amp;w=161&amp;la=en&amp;hash=BCAC1548967500F1842E0A0433538BF0C8FC911D\" /></p>\n            </td>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p><img alt=\"\" height=\"215\" width=\"161\" src=\"/-/media/mso/educational-article/hdb-car-park-maintenance/faded-rd-mks.jpg?h=215&amp;&amp;w=161&amp;la=en&amp;hash=250B201C55097FF41E9E70104F0095853F843C9F\" /></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p>Broken concrete slab</p>\n            </td>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p>Faded road markings</p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p><img alt=\"\" height=\"215\" width=\"161\" src=\"/-/media/mso/educational-article/hdb-car-park-maintenance/faded-signage.jpg?h=215&amp;&amp;w=161&amp;la=en&amp;hash=DE18B8A3FA262DD274CA5E93F0D3809918038C99\" /></p>\n            </td>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p><img alt=\"\" height=\"215\" width=\"161\" src=\"/-/media/mso/educational-article/hdb-car-park-maintenance/pothole-edit.png?h=215&amp;&amp;w=161&amp;la=en&amp;hash=3E3A8AC986F4AEEB43F3CE8FD229A64592F2B9A5\" /></p>\n            </td>\n        </tr>\n        <tr>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p>Faded signage</p>\n            </td>\n            <td valign=\"top\" style=\"padding: 0cm 5.4pt; width: 225.4pt;\">\n            <p>Pothole</p>\n            </td>\n        </tr>\n    </tbody>\n</table>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "cashcard machine",
+                        "gantry"
+                    ],
+                    "additionalInfoWordTags": [
+                        "washing bay",
+                        "season parking"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Playground and Fitness Facilities Maintenance",
+                    "title": "Playground & Fitness Facilities Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Town Councils are autonomous legal entities formed under the Town Councils Act. Town councils control, manage, maintain and improve the common property which includes public lightings, corridors, void decks, lifts, water tanks and open spaces.<br />\n<br />\nTown Councils carry out routine maintenance works to maintain the estate hygiene and upkeep the property and living environment. These include:</p>\n<p>\n<ul>\n    <li>Cleaning of common areas and refuse collection.</li>\n    <li>Servicing of lifts, pumps, and public lightings etc.</li>\n    <li>Building maintenance, horticultural maintenance, and grass cutting works.</li>\n</ul>\n</p>\n<p>Town Councils provide a 24-hour service to attend to residents' maintenance and urgent essential service requests. You can call the Essential Maintenance Service Unit (EMSU) [AHTC: 6385-8888, Other TC: 1800-241-7711 / 1800-275-5555 (depending on the location of the reported issue)] if you require assistance for:</p>\n<p>\n<ul>\n    <li>Disruption of electrical or water supply.</li>\n    <li>Lift breakdown and rescue.</li>\n</ul>\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Bulky Waste in Common Areas",
+                    "title": "Bulky Waste in Common Areas",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p style=\"margin: 0cm 0cm 13.5pt;\">It is inconsiderate and unsightly to discard litter, waste and debris at the common areas.</p>\n<p>Please help to keep our HDB estates clean by disposing of litter, waste or debris properly. You may also contact your Town Council for bulky item/debris removal services.</p>\n<table style=\"border-collapse: collapse; border: none;\" cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n    <tbody>\n        <tr style=\"height: 3.9pt;\">\n            <td style=\"width: 148.8pt; padding: 0cm 5.4pt; height: 3.9pt;\" valign=\"top\">\n            <p><img alt=\"\" src=\"/-/media/mso/educational-article/dumping-in-common-areas/do-not-throw-unwanted-items-edited.png?h=140&amp;w=183&amp;la=en&amp;hash=8D408C135A6CE143A75BD7FED68DD64644544ACF\" style=\"height: 140px; width: 183px;\" /></p>\n            <p> </p>\n            </td>\n        </tr>\n        <tr style=\"height: 3.9pt;\">\n            <td style=\"width: 148.8pt; padding: 0cm 5.4pt; height: 3.9pt;\" valign=\"top\">\n            <p>Do not throw unwanted items at the common areas. Arrange for proper disposal instead.<br />\n            <br />\n            </p>\n            <p> </p>\n            </td>\n        </tr>\n        <tr style=\"height: 14.2pt;\">\n            <td style=\"width: 148.8pt; padding: 0cm 5.4pt; height: 14.2pt;\" valign=\"top\">\n            <p><img alt=\"\" src=\"/-/media/mso/educational-article/dumping-in-common-areas/inform-your-electrical-appliances-edited.png?h=138&amp;w=182&amp;la=en&amp;hash=2FC25C0A842AC964621EE9546C6DA3332CC02EEA\" style=\"height: 138px; width: 182px;\" width=\"182\" height=\"138\" /></p>\n            <p> </p>\n            </td>\n        </tr>\n        <tr style=\"height: 3.4pt;\">\n            <td style=\"width: 148.8pt; padding: 0cm 5.4pt; height: 3.4pt;\" valign=\"top\">\n            <p>Inform your contractors to properly dispose of the unwanted items.</p>\n            <p>&nbsp;</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<p>&nbsp;</p>\n<p>HDB Estate<br />\n<br />\nFor the removal of bulky item(s) (e.g. discarded table, chair, cupboard, mattress, micro-wave oven, gas cooker, refrigerator and washing machine) for disposal, please contact your Town Council for the removal service. They will provide you with details.HDB Estate</p>\n<p>&nbsp;</p>\n<p>Private Estate</p>\n<p>For the removal of bulky item(s) (e.g. discarded table, chair, cupboard, mattress, micro-wave oven, gas cooker, refrigerator and washing machine) for disposal, please contact the public waste collector (PWC) serving your estate. As the removal of bulky items is not included in the standard service provided by the PWCs, rates will have to be separately negotiated. Alternatively, you may engage any licensed waste collector to provide the removal service. The list of licensed waste collectors is available&nbsp;<span style=\"text-decoration: underline;\"><a href=\"https://www.nea.gov.sg/docs/default-source/our-services/waste-management/list-of-all-general-waste-collectors.pdf \">here</a></span>.</p>\n<p>&nbsp;</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Facilities in HDB Estates",
+            "title": "Facilities in HDB Estates",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-facilities-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-facilities.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "No Water",
+                    "title": "No Water",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<ul>\n    <li>If there is no water flowing from your tap, you can check the stopcock of your pipe.</li>\n    <li>The stopcock that controls the water flow into your house is located on the pipe right after the water meter serving your house. If the problem is isolated at one tap, then you may want to check the valve to the tap, usually located below the sink. </li>\n    <li>You can refer to PUB&rsquo;s self-help video online <a href=\"https://youtu.be/OHWm3xSEKMA\">here</a>.</li>\n    <li>If your neighbours are experiencing the same issue, you can give us your feedback here.</li>\n</ul>\n<br />\n</div>\n<ul>\n    <ul>\n    </ul>\n</ul>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Water Leak",
+                    "title": "Water Leak",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<ul>\n    <li>Your taps may be leaking if your water meter continues to run even though all taps and fittings are turned off.&nbsp;&nbsp;</li>\n</ul>\n<br />\n</div>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/water-leak/water_leak_1.png?la=en&amp;hash=88CF081063F88F62415AFF55436EC37A15B6662F\" />\n<p class=\"caption\"><em>An example of a water leak in the outdoors.</em></p>\n<p class=\"caption\"><em><br />\n</em></p>\n<p class=\"caption\"><em>\n</em></p>\n<ul>\n    <li>A leak is identified by unusually high water consumption, rust-coloured water, reduced water pressure and damp spots near buried pipes or an unexplained flow of water from the ground. More information on leakage can be found <a href=\"https://youtu.be/OHWm3xSEKMA\">here</a>.</li>\n</ul>\n<em>\n<br />\n</em>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Water Pressure",
+                    "title": "Water Pressure",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<ul>\n    <li>When water flows from a tap at a slower rate than usual, or is reduced to drips even though the tap is fully turned on, it may be due to low water pressure. </li>\n    <li>If you have such a problem, check the stopcock of your pipe. The stopcock that controls the water flow into your house is located on the pipe right after the water meter serving your house. If the problem is isolated at one tap, then you may want to check the valve to the tap, usually located below the sink. You can refer to PUB&rsquo;s self-help video online <a href=\"https://youtu.be/OHWm3xSEKMA\">here</a>.</li>\n    <li>If your neighbours are facing the same problem, then it could be a bigger problem that requires further investigation.&nbsp;&nbsp;</li>\n</ul>\n<br />\n</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Water Quality",
+                    "title": "Water Quality",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<ul>\n    <li>Please check if the water has been stagnant for more than two days.&nbsp; If so, let the water flow for a few minutes first. If water quality still does not improve, you can give us feedback. </li>\n    <li>Please call PUB at 1800-CALL PUB if you still face water quality issues. &nbsp;After receiving your feedback, the PUB may investigate on-site and you may be contacted for further information.</li>\n</ul>\n<br />\n</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Drinking Water",
+            "title": "Drinking Water",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-water-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-water.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Choked Drain",
+                    "title": "Choked Drain",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<p>Choked drains occur when litter is trapped along the drain which hinders the flow of water. Water will take longer to flow, and may even overflow, causing flooding. &nbsp;Please throw litter into litter bins.</p>\n<br />\n</div>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/choked-drain/choked_drain.png?la=en&amp;hash=3E1A06277A539F96FFF0AF44FEF7D1E91396D726\" />",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Roadside",
+                        "Traffic Junction"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Lamp Post No.",
+                        "Bus Stop No",
+                        "Footpath"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Damaged Drain",
+                    "title": "Damaged Drain",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>This covers damaged drains, cracked or crushed drain gratings.&nbsp;</p>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/demo/drains.png?la=en&amp;hash=EA9E884C8EAE068CB9849D6B1E6B634CAECC4567\" />\n<p class=\"caption\"><em>A damaged drain</em></p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Roadside",
+                        "Lamp Post No.",
+                        "Traffic Junction"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Bus Stop No",
+                        "Footpath"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Flooding",
+                    "title": "Flooding",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "This case may require urgent attention. Please contact PUB at 1800 225 5782 to report the case. ",
+                    "hotline": "18002255782",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<p>If a flood is causing major disruptions to roads, call the Police at 999. If not, you can give us your feedback here. </p>\n<p>Subscribe to SMS alerts on water levels in major drains and canals <a href=\"https://www.pub.gov.sg/drainage/floodmanagement/subscribesms\">here</a>, or check PUB&rsquo;s Facebook, Twitter and MyWaters mobile app for updates.</p>\n<br />\n</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Footpath",
+                        "Bus Stop No.",
+                        "Footpath"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Road, Traffic Junction",
+                        "Covered Linkway"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Sewer Choke/Overflow",
+                    "title": "Sewer Choke/Overflow",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>Overflowing sewers (marked as SEW) or inspection chambers (marked as IC) are caused by blocked sewers.&nbsp;&nbsp;</p>\n<p>  </p>\n<img alt=\"\" class=\"img-responsive\" src=\"/-/media/mso/educational-article/demo/sewer.png?la=en&amp;hash=6ADF325E44ACC04FE2CEC274B76DC85C421BCEF2\" />\n<p class=\"caption\"><em>Water overflowing from sewers.</em></p>\n<p class=\"caption\"><em><br />\n</em></p>\n<p class=\"caption\">\n<ul>\n    <li>If the blockage is in a private sanitary system, it may result in water overflowing from sinks, toilets and floor traps.</li>\n    <li>You can avoid blocking sewers and sanitary systems.&nbsp; Objects and litter should be discarded into the rubbish chutes, as throwing them&nbsp; into sewers and pipes, will obstruct the flow of used water.&nbsp;</li>\n</ul>\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Drain, Roadside",
+                        "Lamp Post No."
+                    ],
+                    "additionalInfoWordTags": [
+                        "Bus Stop No.",
+                        "Nearby Building",
+                        "Footpath"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Sewage Smell",
+                    "title": "Sewage Smell",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>\n<ul>\n    <li>Sewage smell could occur when there is blockage in the used water system.&nbsp;</li>\n</ul>\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Drain, Roadside",
+                        "Lamp Post No.",
+                        "Footpath"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Bus Stop No.",
+                        "Nearby Building, "
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Drains and Sewers",
+            "title": "Drains & Sewers",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-drains-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-drains.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Fallen Tree/Branch",
+                    "title": "Fallen Tree/Branch",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "This case may require urgent attention if the fallen tree or branch is posing a danger to people or is causing obstruction on public land. For such cases, please contact NParks at 1800-4717-300.",
+                    "hotline": "18004717300",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "true",
+                    "peMessage": "<h1>What to do if you see a fallen tree/branch</h1><ul>\n    <li>If a small fallen tree/branch is causing a slight obstruction to a road or footpath, you could do your part by moving it aside if it is safe to do so without endangering yourself.</li>\n</ul>\n<ul>\n    <li>If the tree/branch is bigger and causing an obstruction such as blocking the road or footpath, you can help by calling our 24 hour NParks helpline at 1800 471 7300. We will activate our contractors within an hour to take appropriate action to clear the blockage.&nbsp; </li>\n</ul>\n<p><img alt=\"\" src=\"/-/media/mso/media-folder/a-fallen-tree-along-the-roadside-causing-obstruction.jpg?h=122&amp;&amp;w=163&amp;la=en&amp;hash=60E9B53CE5C6D2E8196988E8B62833A18C6E0864\" style=\"height: 122px; width: 163px;\" /><br />\n<br />\n</p>\n<p style=\"margin-top: 0px; margin-bottom: 0px;\"><em>Fallen tree along the roadside causing obstruction.</em></p>\n<p><br />\n</p><h1>Do you know?</h1><p>\n<ul>\n    <li>Trees are living things. Sometimes dead or weak branches may snap and fall off, and this process may be accelerated during rainy and windy weather. Past investigations conducted on fallen branches and trees have shown that the incidences were mainly due to adverse weather conditions, rather than poor health or tree decay. &nbsp;</li>\n    <li>Various agencies maintain the trees in Singapore to ensure they are healthy.&nbsp; For instance, NParks&rsquo; arborists conduct tree inspections along major roads with high human activity at least once every 12 months. Please visit NParks&rsquo; <a href=\"https://www.nparks.gov.sg/news/2013/1/nparks-tree-management-programme\">website</a> for more information on its tree management programme.</li>\n    <li>Private property owners are responsible for the maintenance or removal of fallen trees or branches within their premises. They can engage a landscape company (click <a href=\"https://www.cuge.com.sg/landscapeservices/Listing-of-NParks-Registered-Landscape-Companies\">here</a> for a list of NParks Registered Landscape Companies or search for other landscape contractors) to help them maintain their trees. &nbsp;</li>\n</ul>\n</p>\n<p><img alt=\"\" height=\"122\" width=\"163\" src=\"/-/media/mso/media-folder/arborist-at-work.jpg?h=122&amp;&amp;w=163&amp;la=en&amp;hash=1C28C133E6FD8BA68E7FB4447419D795CAC88F05\" /></p>\n<p>\n</p>\n<p><em>An NParks arborist inspecting a tree</em>.&nbsp;&nbsp;</p>\n<p><img alt=\"\" height=\"217\" width=\"163\" src=\"/-/media/mso/media-folder/nparks-contractors-carrying-out-scheduled-pruning-of-trees.jpg?h=217&amp;&amp;w=163&amp;la=en&amp;hash=47AB6DCCDD05CC4AD8ECE758BFD41D4A97ECF9D9\" style=\"height: 217px; width: 163px;\" /></p>\n<p><em>An NParks contractor carrying out scheduled pruning of trees.</em><br />\n<br />\n</p>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Overgrown Grass",
+                    "title": "Overgrown Grass",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "true",
+                    "peMessage": "<h1>What to do for overgrown grass</h1><p>\n<ul>\n    <li>If there is overgrown grass within HDB estates, please approach your respective Town Councils to maintain the greenery. </li>\n    <li>Within private estates, landowners can engage their own managing agents or contractors to carry out grass-cutting. (Click <a href=\"https://www.cuge.com.sg/landscapeservices/Listing-of-NParks-Registered-Landscape-Companies\">here</a> for a list of NParks Registered Landscape Companies or search for other landscape contractors). </li>\n    <li>NParks, which maintains the greenery along most roadside verges and state land, has scheduled timetables for grass-cutting in these areas.&nbsp;</li>\n</ul>\n</p>\n<p><img alt=\"\" height=\"164\" width=\"163\" src=\"/-/media/mso/media-folder/overgrown-road-verge.jpg?h=164&amp;&amp;w=163&amp;la=en&amp;hash=ACB259D32EA798773137CB7D790CD86A5934BBFA\" /></p>\n<p><em>Overgrown grass along a roadside verge</em></p>\n<p><br />\n</p><h1>Do you know?</h1><div>\n<p><strong><em></em></strong></p>\n<ul>\n    <li>Grass can grow at a very fast rate especially during rainy weather. But it is also harder for grass-cutting operations to take place during bad weather as wet, soggy ground may hamper the deployment of mowers and machines, and slow down the grass-cutting schedule. </li>\n</ul>\n<br />\n</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Overgrown Shrubs and Trees",
+                    "title": "Overgrown Shrubs & Trees",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "true",
+                    "peMessage": "<h1>What to do for overgrown shrubs and trees</h1><img alt=\"\" height=\"253\" width=\"163\" src=\"/-/media/mso/media-folder/shrubs-and-trees.jpg?h=253&amp;&amp;w=163&amp;la=en&amp;hash=7440D19E8BA3B7F5D820752485412382DD464468\" /><br />\n<p><em>Overgrown shrubs and trees.&nbsp; &nbsp;&nbsp;</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n<p>\n<ul>\n    <li>If you encounter overgrown shrubs and trees within HDB estates, please approach your respective Town Councils to maintain the greenery. </li>\n    <li>Private property owners are responsible for the maintenance of the greenery within their premises.&nbsp; They can engage a landscape company to carry out pruning works. (Click <a href=\"https://www.cuge.com.sg/landscapeservices/Listing-of-NParks-Registered-Landscape-Companies\">here</a> for a list of NParks Registered Landscape Companies or search for other landscape contractors). </li>\n    <li>NParks, who maintains the greenery planted along roadside verges and on state land, has regular scheduled timetables for pruning.&nbsp;</li>\n</ul>\n</p><h1>Do you know?</h1><div>\n<ul>\n    <li>Agencies generally have a schedule for maintaining the shrubs and trees in public areas. Due to the rainy weather, shrubs and trees tend to grow faster. However, tree maintenance works could also be delayed due to bad weather conditions.&nbsp;</li>\n</ul>\n<br />\n</div>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Park Lighting Maintenance",
+                    "title": "Park Lighting Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>What to do if you encounter faulty lights in parks and park connectors</p>\n<ul>\n    <li>If the faulty lighting results in poor visibility and poses public safety concerns for park users, you can help by calling our 24-hour helpline at 1800-471 7300. NParks&rsquo; contractors will be activated to take appropriate action.</li>\n</ul>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse;\">\n    <tbody>\n        <tr style=\"height: 3.9pt;\">\n            <td valign=\"top\" style=\"width: 148.8pt; border-top-width: 1pt; border-left-width: 1pt; border-bottom-style: none; border-right-style: none; padding: 0cm 5.4pt; height: 3.9pt;\">\n            <p><img alt=\"\" height=\"273\" width=\"205\" src=\"/-/media/mso/educational-article/park-lighting-maintenance/lighting-issuenparks.jpg?h=273&amp;&amp;w=205&amp;la=en&amp;hash=B04880A8BB16423353168725464DDBC7E19E4B8D\" /></p>\n            </td>\n        </tr>\n        <tr style=\"height: 3.9pt;\">\n            <td valign=\"top\" style=\"width: 148.8pt; border-top-width: 1pt; border-left-width: 1pt; border-bottom-style: none; border-right-style: none; padding: 0cm 5.4pt; height: 3.9pt;\">\n            <p style=\"margin-bottom: 13.5pt;\">Faulty lighting at a park</p>\n            </td>\n        </tr>\n    </tbody>\n</table>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Park Facilities Maintenance",
+                    "title": "Park Facilities Maintenance",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>What to do if you spot any defects or damages to park facilities</p>\n<p>\n<ul style=\"list-style-type: disc;\">\n    <li>Spot a faulty park facility or equipment? Examples of park facilities include:-</li>\n</ul>\n</p>\n<p style=\"margin-left: 36pt;\">&nbsp;&nbsp;&nbsp; - BBQ pit<br />\n&nbsp;&nbsp;&nbsp; - Playground Equipment<br />\n&nbsp;&nbsp;&nbsp; - Fitness Equipment<br />\n&nbsp;&nbsp;&nbsp; - Park Furniture (e.g benches)<br />\n&nbsp;&nbsp;&nbsp; - Drinking Fountain<br />\n&nbsp;&nbsp;&nbsp; - Toilet amenities</p>\n<ul style=\"list-style-type: disc;\">\n    <li>If the feedback is on cleanliness, please use the &lsquo;Cleanliness&rsquo; category in the Mobile App. More information on the Department of Public Cleanliness can be found <a href=\"http://www.nea.gov.sg/public-health/public-cleanliness/cleaning-of-public-areas\">here</a>.</li>\n</ul>\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" style=\"border-collapse: collapse; border: none;\">\n    <tbody>\n        <tr style=\"height: 14.4pt;\">\n            <td valign=\"top\" style=\"width: 184.3pt; padding: 0cm 5.4pt; height: 14.4pt;\">\n            <p><img alt=\"\" height=\"270\" width=\"152\" src=\"/-/media/mso/educational-article/park-facilities-maintenance/damaged-netnparks.jpg?h=270&amp;&amp;w=152&amp;la=en&amp;hash=14CF87F0EDC09F988ECD804BC4302EF26C7B73DF\" /></p>\n            </td>\n        </tr>\n        <tr style=\"height: 13.75pt;\">\n            <td valign=\"top\" style=\"width: 184.3pt; padding: 0cm 5.4pt; height: 13.75pt;\">\n            <p>Damaged net at playground<br />\n            <br />\n            </p>\n            </td>\n        </tr>\n        <tr style=\"height: 14.4pt;\">\n            <td valign=\"top\" style=\"width: 184.3pt; padding: 0cm 5.4pt; height: 14.4pt;\">\n            <p><img alt=\"\" height=\"155\" width=\"276\" src=\"/-/media/mso/educational-article/park-facilities-maintenance/damaged-bollardnparks.jpg?h=155&amp;&amp;w=276&amp;la=en&amp;hash=7F6F411035A889171AA761916FBE4AD0266E535C\" /></p>\n            </td>\n        </tr>\n        <tr style=\"height: 14.4pt;\">\n            <td valign=\"top\" style=\"width: 184.3pt; padding: 0cm 5.4pt; height: 14.4pt;\">\n            <p>Damaged bollard<br />\n            <br />\n            </p>\n            </td>\n        </tr>\n        <tr style=\"height: 14.4pt;\">\n            <td valign=\"top\" style=\"width: 184.3pt; padding: 0cm 5.4pt; height: 14.4pt;\">\n            <p><img alt=\"\" height=\"215\" width=\"287\" src=\"/-/media/mso/educational-article/park-facilities-maintenance/damaged-benchnparks.jpg?h=215&amp;&amp;w=287&amp;la=en&amp;hash=8F168C0CACBE6B60F9D05932EDB908BA5CD52DE0\" /></p>\n            </td>\n        </tr>\n        <tr style=\"height: 13.75pt;\">\n            <td valign=\"top\" style=\"width: 184.3pt; padding: 0cm 5.4pt; height: 13.75pt;\">\n            <p>Damaged park bench<br />\n            <br />\n            </p>\n            </td>\n        </tr>\n    </tbody>\n</table>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Other Parks and Greenery Issues",
+                    "title": "Other Parks and Greenery Issues",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><p>\n</p>\n<div>\n<div>Have feedback on other parks and greenery issues? Submit your feedback here.<br />\n<br />\n</div>\n<br />\n</div>\n<br />",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Parks and Greenery",
+            "title": "Parks & Greenery ",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-greenery-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-greenery.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Construction Noise",
+                    "title": "Construction Noise",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Do you know?</h1><div>\n<ul>\n    <li>Construction work at a site is permissible at any time of the day from Mondays to Saturdays, as long as the noise does not exceed the <a href=\"http://www.nea.gov.sg/anti-pollution-radiation-protection/noise-pollution-control/noise-pollution\">maximum allowable limits</a>. &nbsp;</li>\n    <li>No construction work is allowed on Sundays and public holidays. </li>\n    <li>For details about NEA&rsquo;s construction noise regulations, please click <a href=\"http://www.nea.gov.sg/anti-pollution-radiation-protection/noise-pollution-control/noise-pollution\">here</a>.&nbsp;</li>\n</ul>\n<br />\n</div>\n<ul>\n    <ul>\n    </ul>\n</ul>",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Construction Noice_1",
+                        "Construction Noice_2",
+                        "Construction Noice_3",
+                        "Construction Noice_4",
+                        "Construction Noice_5"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional  Noice Info_1",
+                        "Additional  Noice Info_2",
+                        "Additional  Noice Info_3",
+                        "Additional  Noice Info_4",
+                        "Additional  Noice Info_5"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Construction Sites",
+            "title": "Construction Sites",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-construction-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-construction.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Shared Bikes",
+                    "title": "Shared Bikes",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "The location is at/near to: ",
+                    "locationHint": "Enter street name or postal code",
+                    "additionalInfoFieldText": "Any additional information?",
+                    "additionalInfoHint": "Near petrol station, behind lamppost...",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Any other details?",
+                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [],
+                    "additionalInfoWordTags": [],
+                    "operatorEmail": "",
+                    "subSubCategoryList": [
+                        {
+                            "code": "Anywheel",
+                            "title": "Anywheel",
+                            "urgentCaseReportingTitle": "",
+                            "urgentCaseReportingInstruction": "",
+                            "hotline": "",
+                            "locationFieldText": "The location is at/near to: ",
+                            "locationHint": "Enter street name or postal code",
+                            "additionalInfoFieldText": "Any additional information?",
+                            "additionalInfoHint": "Near petrol station, behind lamppost...",
+                            "dateTimeFieldText": "When did you see it?",
+                            "dateTimeHint": "Select date and time",
+                            "otherDetailsFieldText": "Any other details?",
+                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                            "mobileSkipToMap": "false",
+                            "peMessage": "",
+                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/anywheel.png",
+                            "otherDetailsWordTags": [],
+                            "additionalInfoWordTags": [],
+                            "operatorEmail": "shanmugam.nithiya@pccw.com",
+                            "subSubCategoryList": []
+                        },
+                        {
+                            "code": "Mobike",
+                            "title": "Mobike",
+                            "urgentCaseReportingTitle": "",
+                            "urgentCaseReportingInstruction": "",
+                            "hotline": "",
+                            "locationFieldText": "The location is at/near to: ",
+                            "locationHint": "Enter street name or postal code",
+                            "additionalInfoFieldText": "Any additional information?",
+                            "additionalInfoHint": "Near petrol station, behind lamppost...",
+                            "dateTimeFieldText": "When did you see it?",
+                            "dateTimeHint": "Select date and time",
+                            "otherDetailsFieldText": "Any other details?",
+                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                            "mobileSkipToMap": "false",
+                            "peMessage": "",
+                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/mobike.png",
+                            "otherDetailsWordTags": [],
+                            "additionalInfoWordTags": [],
+                            "operatorEmail": "",
+                            "subSubCategoryList": []
+                        },
+                        {
+                            "code": "SgBike",
+                            "title": "SgBike",
+                            "urgentCaseReportingTitle": "",
+                            "urgentCaseReportingInstruction": "",
+                            "hotline": "",
+                            "locationFieldText": "The location is at/near to: ",
+                            "locationHint": "Enter street name or postal code",
+                            "additionalInfoFieldText": "Any additional information?",
+                            "additionalInfoHint": "Near petrol station, behind lamppost...",
+                            "dateTimeFieldText": "When did you see it?",
+                            "dateTimeHint": "Select date and time",
+                            "otherDetailsFieldText": "Any other details?",
+                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                            "mobileSkipToMap": "false",
+                            "peMessage": "",
+                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/sgbike.png",
+                            "otherDetailsWordTags": [],
+                            "additionalInfoWordTags": [],
+                            "operatorEmail": "",
+                            "subSubCategoryList": []
+                        },
+                        {
+                            "code": "MOOV",
+                            "title": "MOOV",
+                            "urgentCaseReportingTitle": "",
+                            "urgentCaseReportingInstruction": "",
+                            "hotline": "",
+                            "locationFieldText": "The location is at/near to: ",
+                            "locationHint": "Enter street name or postal code",
+                            "additionalInfoFieldText": "Any additional information?",
+                            "additionalInfoHint": "Near petrol station, behind lamppost...",
+                            "dateTimeFieldText": "When did you see it?",
+                            "dateTimeHint": "Select date and time",
+                            "otherDetailsFieldText": "Any other details?",
+                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                            "mobileSkipToMap": "false",
+                            "peMessage": "",
+                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/moov-bikes.png",
+                            "otherDetailsWordTags": [],
+                            "additionalInfoWordTags": [],
+                            "operatorEmail": "",
+                            "subSubCategoryList": []
+                        },
+                        {
+                            "code": "OFO",
+                            "title": "OFO",
+                            "urgentCaseReportingTitle": "",
+                            "urgentCaseReportingInstruction": "",
+                            "hotline": "",
+                            "locationFieldText": "The location is at/near to: ",
+                            "locationHint": "Enter street name or postal code",
+                            "additionalInfoFieldText": "Any additional information?",
+                            "additionalInfoHint": "Near petrol station, behind lamppost...",
+                            "dateTimeFieldText": "When did you see it?",
+                            "dateTimeHint": "Select date and time",
+                            "otherDetailsFieldText": "Any other details?",
+                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                            "mobileSkipToMap": "false",
+                            "peMessage": "",
+                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/ofo.png",
+                            "otherDetailsWordTags": [],
+                            "additionalInfoWordTags": [],
+                            "operatorEmail": "",
+                            "subSubCategoryList": []
+                        }
+                    ]
+                }
+            ],
+            "code": "Shared Bikes/PMD",
+            "title": "Shared Bikes",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/sharedbicycle.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/neighbourhood/case-map/casemap-icons-pests.png",
+            "otherDetailsWordTags": [
+                "Shared Bike_PMD_wordtag_1",
+                "Shared Bike_PMD_wordtag_2"
+            ],
+            "additionalInfoWordTags": [
+                "Shared Bike_Additional",
+                "Shared Bike_Additional"
+            ]
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Cold Storage",
+                    "title": "Cold Storage",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "The location is at/near to: ",
+                    "locationHint": "Enter street name or postal code",
+                    "additionalInfoFieldText": "Any additional information?",
+                    "additionalInfoHint": "Near petrol station, behind lamppost...",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Any other details?",
+                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "",
+                    "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/abandonedtrolley/coldstorage.png",
+                    "otherDetailsWordTags": [],
+                    "additionalInfoWordTags": [],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Giant",
+                    "title": "Giant",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "The location is at/near to: ",
+                    "locationHint": "Enter street name or postal code",
+                    "additionalInfoFieldText": "Any additional information?",
+                    "additionalInfoHint": "Near petrol station, behind lamppost...",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Any other details?",
+                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "",
+                    "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/abandonedtrolley/giant.png",
+                    "otherDetailsWordTags": [],
+                    "additionalInfoWordTags": [],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Mustafa",
+                    "title": "Mustafa",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "The location is at/near to: ",
+                    "locationHint": "Enter street name or postal code",
+                    "additionalInfoFieldText": "Any additional information?",
+                    "additionalInfoHint": "Near petrol station, behind lamppost...",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Any other details?",
+                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "",
+                    "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/abandonedtrolley/mustafa.png",
+                    "otherDetailsWordTags": [],
+                    "additionalInfoWordTags": [],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "NTUC Fairprice",
+                    "title": "NTUC Fairprice",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "The location is at/near to: ",
+                    "locationHint": "Enter street name or postal code",
+                    "additionalInfoFieldText": "Any additional information?",
+                    "additionalInfoHint": "Near petrol station, behind lamppost...",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Any other details?",
+                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "",
+                    "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/abandonedtrolley/fairprice.png",
+                    "otherDetailsWordTags": [],
+                    "additionalInfoWordTags": [],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                },
+                {
+                    "code": "Sheng Siong",
+                    "title": "Sheng Siong",
+                    "urgentCaseReportingTitle": "",
+                    "urgentCaseReportingInstruction": "",
+                    "hotline": "",
+                    "locationFieldText": "The location is at/near to: ",
+                    "locationHint": "Enter street name or postal code",
+                    "additionalInfoFieldText": "Any additional information?",
+                    "additionalInfoHint": "Near petrol station, behind lamppost...",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Any other details?",
+                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "",
+                    "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/abandonedtrolley/shengsiong.png",
+                    "otherDetailsWordTags": [],
+                    "additionalInfoWordTags": [],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Abandoned Trolleys",
+            "title": "Abandoned Trolleys",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-facilities-cy.png",
+            "casemapIconUrl": "",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        },
+        {
+            "subCategoryList": [
+                {
+                    "code": "Others",
+                    "title": "Others",
+                    "urgentCaseReportingTitle": "Urgent Case Reporting",
+                    "urgentCaseReportingInstruction": "Please do not submit cases which are urgent or involve public safety via the OneService App. For such cases, please call the relevant agencies immediately.",
+                    "hotline": "",
+                    "locationFieldText": "Select location",
+                    "locationHint": "Tap here to select location",
+                    "additionalInfoFieldText": "Near to/at… (Optional)",
+                    "additionalInfoHint": "Provide Information of the location",
+                    "dateTimeFieldText": "When did you see it?",
+                    "dateTimeHint": "Select date and time",
+                    "otherDetailsFieldText": "Provide details of the issue:",
+                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
+                    "mobileSkipToMap": "false",
+                    "peMessage": "<h1>Other municipal feedback</h1><p>Please submit feedback on other municipal issues here.</p>\n<br />",
+                    "logoURL": "",
+                    "otherDetailsWordTags": [
+                        "Other Details_1"
+                    ],
+                    "additionalInfoWordTags": [
+                        "Additional Info_1"
+                    ],
+                    "operatorEmail": "",
+                    "subSubCategoryList": []
+                }
+            ],
+            "code": "Others",
+            "title": "Others",
+            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-others-cy.png",
+            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-others.svg",
+            "otherDetailsWordTags": null,
+            "additionalInfoWordTags": null
+        }
+    ],
+    "bannerHeader": "Select a category"
+}
