@@ -3,50 +3,6 @@
         {
             "subCategoryList": [
                 {
-                    "code": "Construction Noise",
-                    "title": "Construction Noise",
-                    "urgentCaseReportingTitle": "",
-                    "urgentCaseReportingInstruction": "",
-                    "hotline": "",
-                    "locationFieldText": "Select location",
-                    "locationHint": "Tap here to select location",
-                    "additionalInfoFieldText": "Near to/at… (Optional)",
-                    "additionalInfoHint": "Provide Information of the location",
-                    "dateTimeFieldText": "When did you see it?",
-                    "dateTimeHint": "Select date and time",
-                    "otherDetailsFieldText": "Provide details of the issue:",
-                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
-                    "mobileSkipToMap": "false",
-                    "peMessage": "<h1>Do you know?</h1><div>\n<ul>\n    <li>Construction work at a site is permissible at any time of the day from Mondays to Saturdays, as long as the noise does not exceed the <a href=\"http://www.nea.gov.sg/anti-pollution-radiation-protection/noise-pollution-control/noise-pollution\">maximum allowable limits</a>. &nbsp;</li>\n    <li>No construction work is allowed on Sundays and public holidays. </li>\n    <li>For details about NEA&rsquo;s construction noise regulations, please click <a href=\"http://www.nea.gov.sg/anti-pollution-radiation-protection/noise-pollution-control/noise-pollution\">here</a>.&nbsp;</li>\n</ul>\n<br />\n</div>\n<ul>\n    <ul>\n    </ul>\n</ul>",
-                    "logoURL": "",
-                    "otherDetailsWordTags": [
-                        "Construction Noice_1",
-                        "Construction Noice_2",
-                        "Construction Noice_3",
-                        "Construction Noice_4",
-                        "Construction Noice_5"
-                    ],
-                    "additionalInfoWordTags": [
-                        "Additional  Noice Info_1",
-                        "Additional  Noice Info_2",
-                        "Additional  Noice Info_3",
-                        "Additional  Noice Info_4",
-                        "Additional  Noice Info_5"
-                    ],
-                    "operatorEmail": "",
-                    "subSubCategoryList": []
-                }
-            ],
-            "code": "Construction Sites",
-            "title": "Construction Sites",
-            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-construction-cy.png",
-            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-construction.svg",
-            "otherDetailsWordTags": null,
-            "additionalInfoWordTags": null
-        },
-        {
-            "subCategoryList": [
-                {
                     "code": "Shared Bikes",
                     "title": "Shared Bikes",
                     "urgentCaseReportingTitle": "",
