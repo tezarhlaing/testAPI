@@ -42,53 +42,11 @@
                             "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/anywheel.png",
                             "otherDetailsWordTags": [],
                             "additionalInfoWordTags": [],
-                            "operatorEmail": "shanmugam.nithiya@pccw.com",
-                            "subSubCategoryList": []
-                        },
-                        {
-                            "code": "Mobike",
-                            "title": "Mobike",
-                            "urgentCaseReportingTitle": "",
-                            "urgentCaseReportingInstruction": "",
-                            "hotline": "",
-                            "locationFieldText": "The location is at/near to: ",
-                            "locationHint": "Enter street name or postal code",
-                            "additionalInfoFieldText": "Any additional information?",
-                            "additionalInfoHint": "Near petrol station, behind lamppost...",
-                            "dateTimeFieldText": "When did you see it?",
-                            "dateTimeHint": "Select date and time",
-                            "otherDetailsFieldText": "Any other details?",
-                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
-                            "mobileSkipToMap": "false",
-                            "peMessage": "",
-                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/mobike.png",
-                            "otherDetailsWordTags": [],
-                            "additionalInfoWordTags": [],
-                            "operatorEmail": "",
-                            "subSubCategoryList": []
-                        },
-                        {
-                            "code": "SgBike",
-                            "title": "SgBike",
-                            "urgentCaseReportingTitle": "",
-                            "urgentCaseReportingInstruction": "",
-                            "hotline": "",
-                            "locationFieldText": "The location is at/near to: ",
-                            "locationHint": "Enter street name or postal code",
-                            "additionalInfoFieldText": "Any additional information?",
-                            "additionalInfoHint": "Near petrol station, behind lamppost...",
-                            "dateTimeFieldText": "When did you see it?",
-                            "dateTimeHint": "Select date and time",
-                            "otherDetailsFieldText": "Any other details?",
-                            "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
-                            "mobileSkipToMap": "false",
-                            "peMessage": "",
-                            "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/sharedbikes/sgbike.png",
-                            "otherDetailsWordTags": [],
-                            "additionalInfoWordTags": [],
-                            "operatorEmail": "",
+                            "operatorEmail": "tezarhlaing@gmail.com",
                             "subSubCategoryList": []
                         }
+                      
+                      
                     ]
                 }
             ],
@@ -104,75 +62,8 @@
                 "Shared Bike_Additional",
                 "Shared Bike_Additional"
             ]
-        },
-        {
-            "subCategoryList": [
-                {
-                    "code": "Cold Storage",
-                    "title": "Cold Storage",
-                    "urgentCaseReportingTitle": "",
-                    "urgentCaseReportingInstruction": "",
-                    "hotline": "",
-                    "locationFieldText": "The location is at/near to: ",
-                    "locationHint": "Enter street name or postal code",
-                    "additionalInfoFieldText": "Any additional information?",
-                    "additionalInfoHint": "Near petrol station, behind lamppost...",
-                    "dateTimeFieldText": "When did you see it?",
-                    "dateTimeHint": "Select date and time",
-                    "otherDetailsFieldText": "Any other details?",
-                    "otherDetailsHint": "To help us attend to your case promptly, please include case details here, especially if no photo is provided.",
-                    "mobileSkipToMap": "false",
-                    "peMessage": "",
-                    "logoURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/abandonedtrolley/coldstorage.png",
-                    "otherDetailsWordTags": [],
-                    "additionalInfoWordTags": [],
-                    "operatorEmail": "",
-                    "subSubCategoryList": []
-                }
-            ],
-            "code": "Abandoned Trolleys",
-            "title": "Abandoned Trolleys",
-            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-facilities-cy.png",
-            "casemapIconUrl": "",
-            "otherDetailsWordTags": null,
-            "additionalInfoWordTags": null
-        },
-        {
-            "subCategoryList": [
-                {
-                    "code": "Others",
-                    "title": "Others",
-                    "urgentCaseReportingTitle": "Urgent Case Reporting",
-                    "urgentCaseReportingInstruction": "Please do not submit cases which are urgent or involve public safety via the OneService App. For such cases, please call the relevant agencies immediately.",
-                    "hotline": "",
-                    "locationFieldText": "Select location",
-                    "locationHint": "Tap here to select location",
-                    "additionalInfoFieldText": "Near to/at… (Optional)",
-                    "additionalInfoHint": "Provide Information of the location",
-                    "dateTimeFieldText": "When did you see it?",
-                    "dateTimeHint": "Select date and time",
-                    "otherDetailsFieldText": "Provide details of the issue:",
-                    "otherDetailsHint": "Give more details so that we can attend promptly to your case",
-                    "mobileSkipToMap": "false",
-                    "peMessage": "<h1>Other municipal feedback</h1><p>Please submit feedback on other municipal issues here.</p>\n<br />",
-                    "logoURL": "",
-                    "otherDetailsWordTags": [
-                        "Other Details_1"
-                    ],
-                    "additionalInfoWordTags": [
-                        "Additional Info_1"
-                    ],
-                    "operatorEmail": "",
-                    "subSubCategoryList": []
-                }
-            ],
-            "code": "Others",
-            "title": "Others",
-            "imageURL": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/mobile/category-others-cy.png",
-            "casemapIconUrl": "https://www-oneservice-sg.cwp-stg.sg/-/media/mso/category/casemap/category-others.svg",
-            "otherDetailsWordTags": null,
-            "additionalInfoWordTags": null
         }
+       
     ],
     "bannerHeader": "Select a category"
 }
